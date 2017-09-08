@@ -1,0 +1,10 @@
+C:\Users\areese\Documents\Visual Studio 2017\Projects\PalletDetailViewer\PalletDetailViewer\bin\Debug\PalletDetailViewer.exe.config
+C:\Users\areese\Documents\Visual Studio 2017\Projects\PalletDetailViewer\PalletDetailViewer\bin\Debug\PalletDetailViewer.exe
+C:\Users\areese\Documents\Visual Studio 2017\Projects\PalletDetailViewer\PalletDetailViewer\bin\Debug\PalletDetailViewer.pdb
+C:\Users\areese\Documents\Visual Studio 2017\Projects\PalletDetailViewer\PalletDetailViewer\obj\Debug\PalletDetailViewer.csprojResolveAssemblyReference.cache
+C:\Users\areese\Documents\Visual Studio 2017\Projects\PalletDetailViewer\PalletDetailViewer\obj\Debug\PalletDetailViewer.Form1.resources
+C:\Users\areese\Documents\Visual Studio 2017\Projects\PalletDetailViewer\PalletDetailViewer\obj\Debug\PalletDetailViewer.Properties.Resources.resources
+C:\Users\areese\Documents\Visual Studio 2017\Projects\PalletDetailViewer\PalletDetailViewer\obj\Debug\PalletDetailViewer.csproj.GenerateResource.Cache
+C:\Users\areese\Documents\Visual Studio 2017\Projects\PalletDetailViewer\PalletDetailViewer\obj\Debug\PalletDetailViewer.csproj.CoreCompileInputs.cache
+C:\Users\areese\Documents\Visual Studio 2017\Projects\PalletDetailViewer\PalletDetailViewer\obj\Debug\PalletDetailViewer.exe
+C:\Users\areese\Documents\Visual Studio 2017\Projects\PalletDetailViewer\PalletDetailViewer\obj\Debug\PalletDetailViewer.pdb
